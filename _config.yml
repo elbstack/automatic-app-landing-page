@@ -31,18 +31,6 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Fasting Tracker
-    description                           : Chew is a simple fasting tracker used for Intermittent Fasting with the 16/8 method.
-    fontawesome_icon_name                 : weight
-    
-  - title                                 : Intermittent Fasting
-    description                           : Restrict your daily eating period to 8 hours. Then you fast for 16 hours in between.
-    fontawesome_icon_name                 : utensils
-
-  - title                                 : Motivation
-    description                           : Document your Intermittent Fasting daily & stay motivated.
-    fontawesome_icon_name                 : calendar-alt
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
